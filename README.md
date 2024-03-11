@@ -19,8 +19,9 @@
   ##
 
 <!-- 🔭 I’m currently working on ...-->
-- ✔ Atualmente sou estudante de ciencia da computação pela UFES e iniciando como streammer na twitch
-- 🌱 Estou estudando frontend HTML | CSS | JS
+- ✔ Atualmente sou estudante de ciencia da computação pela UFES e sou streammer na twitch
+- 🌱 Estou estudando frontend com ReactJs
+- 🌱 Aprendendo backend com nodejs e java springboot
 <!-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...-->
 - 💬 Meu nome é Saimon, deficiente comunicativo (dicção/fala), desenvolvedor web frontend em ascensão
