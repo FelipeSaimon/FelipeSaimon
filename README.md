@@ -1,4 +1,4 @@
-### Seja bem vindo! Eu sou o devciente
+## Seja bem vindo! Eu sou o devciente
 
 
 
@@ -20,9 +20,9 @@
   ##
 
 <!-- 🔭 I’m currently working on ...-->
-- ✔ Atualmente sou estudante de ciencia da computação pela UFES e sou streammer na twitch
+- ✔ Estudante de ciencia da computação pela UFES
 - 🌱 Estou estudando frontend com ReactJs
-- 🌱 Aprendendo backend com nodejs e java springboot
+- 🌱 Aprendendo backend com java springboot
 <!-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...-->
 - 💬 Meu nome é Saimon, deficiente comunicativo (dicção/fala), desenvolvedor web frontend em ascensão
